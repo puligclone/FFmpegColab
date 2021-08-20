@@ -3,7 +3,7 @@ You need to prepend a `!` to execute a shell command in Goole Colab or Jupyter
 
 ```!git clone https://github.com/puligclone/FFmpegColab.git```
 
-```!cp -r ./colab-ffmpeg-cuda/bin/. /usr/bin/```
+```!cp -r ./FFmpegColab/bin/. /usr/bin/```
 
 Check the installed ffmpeg version
 ```!ffmpeg -version```
